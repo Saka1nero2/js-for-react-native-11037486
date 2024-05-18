@@ -8,6 +8,6 @@ arrayManipulation.js
 
 2. formatArrayStrings : Takes two arrays - strings and their corresponding processed numbers from processArray.Modifies each string based on the number(uppercase for even , lowercase for odd)
 
-userInfo.js 
+*userInfo.js 
 1.Contains a function 'createUserProfiles : Takes an array of names and their corresponding modified names (from 'formatArrayStrings').
 Returns an array of objects containing original name, modified name , and auto-incremented ID starting from 1.
